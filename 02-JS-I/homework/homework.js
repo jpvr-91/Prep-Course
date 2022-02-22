@@ -7,7 +7,7 @@ const nuevaString = hello;
 const nuevoNum = gracias ;
 
 // Crea una variable booleana:
-const nuevoBool = null;
+const nuevoBool = ya es hora de dormir;
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - null === 5;
